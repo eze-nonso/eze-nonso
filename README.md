@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KingNonny
-- 👀 I’m interested in Angular first, all things .NET, and Node
+- 👀 I’m interested in Angular first, all things Angular, .NET, and Node
 - 🌱 I’m currently learning Android dev (on and off) 😒 but my biggest wishlist is blockchain dev
 - 💞️ I’m looking to join awesome developer communities
 - 📫 How to reach me ... ezeoke95@gmail.com
